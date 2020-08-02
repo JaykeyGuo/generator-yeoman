@@ -1,0 +1,13 @@
+{
+  "name": "generator-yeoman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app/index.js",
+  "license": "MIT",
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.11.0"
+  }
+}
